@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RetornoEnvioLoteRPS xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.prefeitura.sp.gov.br/nfe">
+	<Cabecalho Versao="2" xmlns="">
+		<Sucesso>true</Sucesso>
+		<InformacoesLote>
+			<NumeroLote>9853560</NumeroLote>
+			<InscricaoPrestador>99999999</InscricaoPrestador>
+			<CPFCNPJRemetente>
+				<CNPJ>99999999000123</CNPJ>
+			</CPFCNPJRemetente>
+			<DataEnvioLote>2025-10-29T18:19:15</DataEnvioLote>
+			<QtdNotasProcessadas>2</QtdNotasProcessadas>
+			<TempoProcessamento>2</TempoProcessamento>
+			<ValorTotalServicos>0</ValorTotalServicos>
+		</InformacoesLote>
+	</Cabecalho>
+	<ChaveNFeRPS xmlns="">
+		<ChaveNFe>
+			<InscricaoPrestador>99999999</InscricaoPrestador>
+			<NumeroNFe>49668</NumeroNFe>
+			<CodigoVerificacao>VD9ILWIJ</CodigoVerificacao>
+			<ChaveNotaNacional>35503081299999998000123000000004966825100341175302</ChaveNotaNacional>
+		</ChaveNFe>
+		<ChaveRPS>
+			<InscricaoPrestador>99999999</InscricaoPrestador>
+			<SerieRPS>ANNT4</SerieRPS>
+			<NumeroRPS>152</NumeroRPS>
+		</ChaveRPS>
+	</ChaveNFeRPS>
+	<ChaveNFeRPS xmlns="">
+		<ChaveNFe>
+			<InscricaoPrestador>99999999</InscricaoPrestador>
+			<NumeroNFe>49669</NumeroNFe>
+			<CodigoVerificacao>5TDEELCI</CodigoVerificacao>
+			<ChaveNotaNacional>35503081299999998000123000000004966925103271613444</ChaveNotaNacional>
+		</ChaveNFe>
+		<ChaveRPS>
+			<InscricaoPrestador>99999999</InscricaoPrestador>
+			<SerieRPS>ANNT4</SerieRPS>
+			<NumeroRPS>153</NumeroRPS>
+		</ChaveRPS>
+	</ChaveNFeRPS>
+</RetornoEnvioLoteRPS>

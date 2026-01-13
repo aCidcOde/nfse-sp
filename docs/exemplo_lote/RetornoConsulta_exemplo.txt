@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RetornoConsulta xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.prefeitura.sp.gov.br/nfe">
+  <Cabecalho Versao="2" xmlns="">
+    <Sucesso>true</Sucesso>
+  </Cabecalho>
+  <NFe xmlns="">
+    <Assinatura>AbZN85C2TWp7f7RCvna8fBnAZwPAdWgTxWZyq11IkWJCMfWgHQy12Vwy55sq9cu/PgXEw7XJc0Cf3x1dttuKiF2Fz7Jzoj0BwL4h9mTfWrBnwgKQcje7/zFCKUHPCt8yoqAnbt4yfEP6+1eQ5UXUN4YuvvHg37uLhw/1mRgqgrOwe9SNio4np1ahhOwTCoBUi7bJ3fHU+Mm10uonulYq0YQS6n5Lme3+K1cipMjt7VN1erFoQM1FP5NwmlvLQbmbMR0w20WjAGnuISFnFlF/k+HOwDQLkteLfjJ6xdXAlJ5pioDkjfYOLqe5vw8zOjCdru6S+pyYwoiiztoUpynqkw==</Assinatura>
+    <ChaveNFe>
+      <InscricaoPrestador>99999999</InscricaoPrestador>
+      <NumeroNFe>49668</NumeroNFe>
+      <CodigoVerificacao>VD9ILWIJ</CodigoVerificacao>
+      <ChaveNotaNacional>35503081299999999000123000000004966825100341175302</ChaveNotaNacional>
+    </ChaveNFe>
+    <DataEmissaoNFe>2025-10-29T18:19:15</DataEmissaoNFe>
+    <NumeroLote>9853560</NumeroLote>
+    <ChaveRPS>
+      <InscricaoPrestador>99999999</InscricaoPrestador>
+      <SerieRPS>ANNT4</SerieRPS>
+      <NumeroRPS>152</NumeroRPS>
+    </ChaveRPS>
+    <TipoRPS>RPS</TipoRPS>
+    <DataEmissaoRPS>2025-09-03</DataEmissaoRPS>
+    <DataFatoGeradorNFe>2025-09-03T00:00:00</DataFatoGeradorNFe>
+    <CPFCNPJPrestador>
+      <CNPJ>99999999000123</CNPJ>
+    </CPFCNPJPrestador>
+    <RazaoSocialPrestador>RAZAO SOCIAL TESTE</RazaoSocialPrestador>
+    <EnderecoPrestador>
+      <TipoLogradouro>AV</TipoLogradouro>
+      <Logradouro>NOVE DE JULHO</Logradouro>
+      <NumeroEndereco>1909</NumeroEndereco>
+      <ComplementoEndereco>ANDAR 30              </ComplementoEndereco>
+      <Cidade>3550308</Cidade>
+      <UF>SP</UF>
+      <CEP>4543907</CEP>
+    </EnderecoPrestador>
+    <EmailPrestador>teste@teste.com.br</EmailPrestador>
+    <StatusNFe>N</StatusNFe>
+    <TributacaoNFe>T</TributacaoNFe>
+    <OpcaoSimples>0</OpcaoSimples>
+    <ValorServicos>2300.65</ValorServicos>
+    <CodigoServico>1023</CodigoServico>
+    <AliquotaServicos>0.05</AliquotaServicos>
+    <ValorISS>115.03</ValorISS>
+    <ValorCredito>0</ValorCredito>
+    <ISSRetido>false</ISSRetido>
+    <CPFCNPJTomador>
+      <CNPJ>99999999000166</CNPJ>
+    </CPFCNPJTomador>
+    <RazaoSocialTomador>TESTE</RazaoSocialTomador>
+    <EnderecoTomador>
+      <TipoLogradouro>RUA</TipoLogradouro>
+      <Logradouro>TESTE</Logradouro>
+      <NumeroEndereco>0001</NumeroEndereco>
+      <ComplementoEndereco>0101</ComplementoEndereco>
+      <Bairro>TESTE</Bairro>
+      <Cidade>3550308</Cidade>
+      <UF>SP</UF>
+      <CEP>4141500</CEP>
+    </EnderecoTomador>
+    <Discriminacao>teste geral IBS</Discriminacao>
+    <FonteCargaTributaria />
+    <ValorInicialCobrado>1486.82</ValorInicialCobrado>
+    <ValorFinalCobrado>2300.65</ValorFinalCobrado>
+    <ValorIPI>0</ValorIPI>
+    <ExigibilidadeSuspensa>0</ExigibilidadeSuspensa>
+    <PagamentoParceladoAntecipado>0</PagamentoParceladoAntecipado>
+    <NBS>115029000</NBS>
+    <IBSCBS>
+      <finNFSe>0</finNFSe>
+      <indFinal>0</indFinal>
+      <cIndOp>20101</cIndOp>
+      <indDest>1</indDest>
+      <dest>
+        <CNPJ>J0CM5ZAU000106</CNPJ>
+        <xNome>NOME TESTE</xNome>
+        <email />
+      </dest>
+      <valores>
+        <trib>
+          <gIBSCBS>
+            <cClassTrib>000001</cClassTrib>
+          </gIBSCBS>
+        </trib>
+      </valores>
+    </IBSCBS>
+    <RetornoComplementarIBSCBS>
+      <Adquirente />
+      <ValorBCIBSCBS>1486.81</ValorBCIBSCBS>
+      <ValorAliqEstadualIBS>0.3</ValorAliqEstadualIBS>
+      <ValorAliqEfetivaEstadualIBS>0.3</ValorAliqEfetivaEstadualIBS>
+      <ValorEstadualIBS>446.04</ValorEstadualIBS>
+      <ValorAliqMunicipalIBS>0.07</ValorAliqMunicipalIBS>
+      <ValorAliqEfetivaMunicipalIBS>0.07</ValorAliqEfetivaMunicipalIBS>
+      <ValorMunicipalIBS>104.07</ValorMunicipalIBS>
+      <ValorIBS>550.12</ValorIBS>
+      <ValorAliqCBS>0.1</ValorAliqCBS>
+      <ValorAliqEfetivaCBS>0.1</ValorAliqEfetivaCBS>
+      <ValorCBS>148.68</ValorCBS>
+    </RetornoComplementarIBSCBS>
+  </NFe>
+  <NFe xmlns="">
+    <Assinatura>JfgC+ftqWj1m4vWIqLQHisfx7wmhktk969PM7ZEhbI2cc2+LnwGDoLivbK6F+o0JcLabZvUz9+fqOcopKYT1tpIKofYfTwl9EfPp0rQnsSX7DeN4FXdqKdu4PLG98h0mDiM7ZOqOlik88h+eyen44p8SnAEH1njXC1T+MDx6SpsD7/XKuT7Vn1dSXeq0Z0JDl282rDdZzBVhisyas0Dz++52S192bImxSKB0VjS5yGXT5Yd2oE9zexZkRNasveOARIJ/nher2UtkiY2ZSOys2qmMeLGas4avO5qWZVA6UAHzjedA5kc7997ebJ56aGPOISrBb3AUGX2ruM52DrZx7w==</Assinatura>
+    <ChaveNFe>
+      <InscricaoPrestador>99999999</InscricaoPrestador>
+      <NumeroNFe>49669</NumeroNFe>
+      <CodigoVerificacao>5TDEELCI</CodigoVerificacao>
+      <ChaveNotaNacional>35503081299999999000123000000004966925103271613444</ChaveNotaNacional>
+    </ChaveNFe>
+    <DataEmissaoNFe>2025-10-29T18:19:15</DataEmissaoNFe>
+    <NumeroLote>9853560</NumeroLote>
+    <ChaveRPS>
+      <InscricaoPrestador>99999999</InscricaoPrestador>
+      <SerieRPS>ANNT4</SerieRPS>
+      <NumeroRPS>153</NumeroRPS>
+    </ChaveRPS>
+    <TipoRPS>RPS</TipoRPS>
+    <DataEmissaoRPS>2025-09-02</DataEmissaoRPS>
+    <DataFatoGeradorNFe>2025-09-02T00:00:00</DataFatoGeradorNFe>
+    <CPFCNPJPrestador>
+      <CNPJ>99999999000123</CNPJ>
+    </CPFCNPJPrestador>
+    <RazaoSocialPrestador>RAZAO SOCIAL TESTE</RazaoSocialPrestador>
+    <EnderecoPrestador>
+      <TipoLogradouro>AV</TipoLogradouro>
+      <Logradouro>NOVE DE JULHO</Logradouro>
+      <NumeroEndereco>1909</NumeroEndereco>
+      <ComplementoEndereco>ANDAR 30              </ComplementoEndereco>
+      <Cidade>3550308</Cidade>
+      <UF>SP</UF>
+      <CEP>4543907</CEP>
+    </EnderecoPrestador>
+    <EmailPrestador>teste@teste.com.br</EmailPrestador>
+    <StatusNFe>N</StatusNFe>
+    <TributacaoNFe>T</TributacaoNFe>
+    <OpcaoSimples>0</OpcaoSimples>
+    <ValorServicos>11790.63</ValorServicos>
+    <CodigoServico>1023</CodigoServico>
+    <AliquotaServicos>0.05</AliquotaServicos>
+    <ValorISS>589.53</ValorISS>
+    <ValorCredito>0</ValorCredito>
+    <ISSRetido>false</ISSRetido>
+    <CPFCNPJTomador>
+      <CNPJ>99999999000166</CNPJ>
+    </CPFCNPJTomador>
+    <RazaoSocialTomador>TESTE</RazaoSocialTomador>
+    <EnderecoTomador>
+      <TipoLogradouro>RUA</TipoLogradouro>
+      <Logradouro>TESTE 2</Logradouro>
+      <NumeroEndereco>100</NumeroEndereco>
+      <ComplementoEndereco>Bloco A</ComplementoEndereco>
+      <Bairro>TESTE</Bairro>
+      <Cidade>3550308</Cidade>
+      <UF>SP</UF>
+      <CEP>4141500</CEP>
+    </EnderecoTomador>
+    <Discriminacao>teste geral IBS 2</Discriminacao>
+    <FonteCargaTributaria />
+    <ValorInicialCobrado>10000.98</ValorInicialCobrado>
+    <ValorFinalCobrado>11790.63</ValorFinalCobrado>
+    <ValorIPI>0</ValorIPI>
+    <ExigibilidadeSuspensa>0</ExigibilidadeSuspensa>
+    <PagamentoParceladoAntecipado>0</PagamentoParceladoAntecipado>
+    <NBS>115029000</NBS>
+    <IBSCBS>
+      <finNFSe>0</finNFSe>
+      <indFinal>0</indFinal>
+      <cIndOp>100301</cIndOp>
+      <tpOper>5</tpOper>
+      <tpEnteGov>1</tpEnteGov>
+      <indDest>1</indDest>
+      <valores>
+        <trib>
+          <gIBSCBS>
+            <cClassTrib>200028</cClassTrib>
+          </gIBSCBS>
+        </trib>
+      </valores>
+    </IBSCBS>
+    <RetornoComplementarIBSCBS>
+      <Adquirente />
+      <ValorBCIBSCBS>10000.98</ValorBCIBSCBS>
+      <ValorAliqEstadualIBS>0.15</ValorAliqEstadualIBS>
+      <ValorPercRedEstadualIBS>0.6</ValorPercRedEstadualIBS>
+      <ValorAliqEfetivaEstadualIBS>0.06</ValorAliqEfetivaEstadualIBS>
+      <ValorEstadualIBS>600.05</ValorEstadualIBS>
+      <ValorAliqMunicipalIBS>0.05</ValorAliqMunicipalIBS>
+      <ValorPercRedMunicipalIBS>0.6</ValorPercRedMunicipalIBS>
+      <ValorAliqEfetivaMunicipalIBS>0.02</ValorAliqEfetivaMunicipalIBS>
+      <ValorMunicipalIBS>200.01</ValorMunicipalIBS>
+      <ValorIBS>800.08</ValorIBS>
+      <ValorAliqCBS>0.1</ValorAliqCBS>
+      <ValorPercRedCBS>0.6</ValorPercRedCBS>
+      <ValorAliqEfetivaCBS>0.04</ValorAliqEfetivaCBS>
+      <ValorCBS>400.03</ValorCBS>
+    </RetornoComplementarIBSCBS>
+  </NFe>
+</RetornoConsulta>
